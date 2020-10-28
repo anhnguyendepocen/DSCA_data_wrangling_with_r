@@ -72,6 +72,10 @@ knitr::include_graphics("images/data_cowboy.png")
 
 ###### Artwork by @allisonhorst
 
+---
+# Workflow
+
+![\Image showing visual representation of tidyverse packages and workflow](images/tidyverse.png)
 
 
 ---

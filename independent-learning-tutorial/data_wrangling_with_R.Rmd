@@ -48,8 +48,8 @@ htmltools::img(src = knitr::image_uri("../images/dsc_logo.png"),
  
 
 * **Dates and times** 
-  * lubridate
-  * time zones
+  * Learn to work with dates and times and timezones using lubridate
+
   
 
 

@@ -59,13 +59,13 @@ htmltools::img(src = knitr::image_uri("../images/dsc_logo.png"),
 ### Packages
 
 ```{r, warning = FALSE, message = FALSE}
-#install.packages("tidyverse")
-#install.packages("janitor")
-#install.packages("visdat")
-#install.packages("naniar")
-#install.packages("lubridate")
-#install.packages("haven")
-#install.packages("readxl")
+install.packages("tidyverse")
+install.packages("janitor")
+install.packages("visdat")
+install.packages("naniar")
+install.packages("lubridate")
+install.packages("haven")
+install.packages("readxl")
 
 library(tidyverse)
 library(janitor)
